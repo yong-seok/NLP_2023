@@ -23,6 +23,6 @@
 * [Emoji](https://gist.github.com/rxaviers/7360908)
 * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
-* |#|session keywords||
+|#|session |keywords|
 |:--:|:--:|:--:|
 |1|code cells😊|[variabroe, assingn](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
