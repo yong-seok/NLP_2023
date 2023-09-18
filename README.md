@@ -26,3 +26,4 @@
 |#|session |keywords|
 |:--:|:--:|:--:|
 |1|code cells😊|[variabroe, assingn](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
+|2|five Typea of Data😊||
